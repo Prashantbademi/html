@@ -1,0 +1,16 @@
+def calculate_pizza_slices(num_individuals):
+    large_slices = num_individuals // 8
+    medium_slices = (num_individuals % 8) // 6
+    regular_slices = ((num_individuals % 8) % 6) // 4
+    small_slices = ((num_individuals % 8) % 6) % 4
+
+    print(f"If there are {num_individuals} individuals:")
+    print(f"1. we will have {large_slices} Large pizza(s)")
+    print(f"2. we will have {medium_slices} Medium pizza(s)")
+    print(f"3. we will have {regular_slices} Regular Pizza(s)")
+    print(f"4. we will have {small_slices} Small Pizza(s)")
+    print(f"\nTotal slices: {large_slices * 8 + medium_slices * 6 + regular_slices * 4 + small_slices}")
+
+# Test cases
+calculate_pizza_slices(100)
+calculate_pizza_slices(19)
