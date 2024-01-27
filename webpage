@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ULTIMEZ</title>
+    <style>
+        h1{
+            text-align: left;
+            padding: 30px;
+            background-color: rgb(16,6,159);
+            text-decoration-color: white;
+            font-size=100px;
+            color: #fff;
+        }
+
+        h2{
+            text-align: left;
+            padding: 30px;
+            background-color: rgb(16,6,159);
+            text-decoration-color: white;
+            
+            color: #fff;
+        }
+
+        h4{
+            text-align: left;
+            padding: 30px;
+            background-color: black(16,6,160);
+            text-decoration-color: black;
+            font-size=40px;
+            color: #fff;
+        }
+    
+
+        p{
+            text-align: left;
+            padding: 500px;
+            background-color: black(16,6,100);
+            text-decoration-color: white;
+            color: #fff;
+        }
+
+        
+        
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: rgb(16,6,159);
+        }
+
+        
+
+        nav {
+            background-color: rgb(16,6,159);
+            color: blue;
+           text-align: right;
+            padding-right: 10px;
+        }
+
+        nav a {
+            background-color: rgb(16,6,159);
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+       
+
+        .login-container {
+            text-align: right;
+            padding: 10px;
+            background-color: rgb(16,6,159);
+            color: #fff;
+        }
+        p{
+            background-color:white;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>ULTIMEZ</h1>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Who we are</a>
+        <a href="#">Solutions</a>
+        <a href="#">Portfolio</a>
+        <a href="#">Case Studies</a>
+        <a href="#">Careers</a>
+        <a href="#">Contact Us</a>
+        <a href="#">Login</a>
+
+    </nav>
+
+<header>
+        <h2>    Building The Digital 
+            <br>Universe
+        </h2>
+
+
+        <h4>
+                With every client we serve, we bring forth a deep 
+            <br>passion for creative problem-solving and digital 
+            <br>innovations- that's what we deliver. We’ve Great
+             <br>minds at work for the best technologies to make 
+             <br>digital easy and impactful.
+
+        </h4>
+</div>
+        <p>
+                We craft digital strategies 
+            <br>that turn your brand into a 
+            <br>digital sensation
+        </p>
+
+        
+        
+        
+
+</body>
+</html>
+
